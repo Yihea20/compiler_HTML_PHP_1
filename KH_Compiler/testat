@@ -1,0 +1,43 @@
+desigin interface paint red r{
+enter yihea: check("kjjhkhk")
+enter yihea: radio("kjjhkhk")
+enter yihea: field("kjjhkhk")
+enter yihea: submit("kjjhkhk")
+display b1 : list # ( klhlkhkln)
+display b2:image('kjlkjlk')
+link l1: 'oljljkl'
+display
+}
+
+
+setting controller c1 control page p1 {
+if(s==5)
+{
+print s
+}
+for(part1 s=0 part2 s<4 part3 s++){
+if(s==5)
+{
+print s
+}
+}
+move page p1
+print p1
+function f1(param p1,param g2,param d6)
+{
+if(s==5)
+{
+print s
+}
+for(part1 s=0 part2 s<4 part3 s++){
+if(s==5)
+{
+print s
+}
+}
+move page p1
+print p1
+}
+cull f1(param s4)
+s++
+s=9}

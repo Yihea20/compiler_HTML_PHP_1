@@ -1,0 +1,31 @@
+desigin interface paint blue p3{
+ link l1: 'www.youtube.com'
+ enter x1:field("yihea")
+ enter def:submit("text")
+ enter rid:radio("gith")
+ enter checkf:check("amin")
+ display dis: image('hjbkjnlkand')
+ display lis:list #(tee) # (caffe)
+ }
+
+ setting controller c1 control page p3 {
+ decler s=6
+ s=4+9
+ if(s>4)
+ {
+ print yihea
+ }
+ write good
+
+ for(part1 i=0 part2 i<10 part3 i++)
+ {
+ print i
+ }
+ print s
+ function f1(param s)
+ {
+ write functionn
+ }
+ cull f1(param s)
+ }
+
